@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**rejijerin/rejijerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I work on:
 
-Here are some ideas to get you started:
+🔄 Autonomous robots using ROS, Python, SLAM, and LiDAR
+🕶️ Industrial training simulations in Unity and C#
+🎯 My focus: building simulations and control systems that make robotics safer, smarter, and more intuitive for humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently learning:
+
+🌐 ROS2 and C++
+🧪 Real-world applications of immersive robotics
+📌 Projects:
+
+🔸 [Inventory Bot (ROS, SLAM)]
+🔸 [VR Safety Training Simulation]
+🔸 [Path Planning Research]
+
